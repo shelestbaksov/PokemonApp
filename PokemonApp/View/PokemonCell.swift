@@ -40,7 +40,6 @@ struct PokemonCell: View {
                         .padding(.bottom, 8)
                         .padding(.trailing, 8)
                         .frame(width: 80, height: 80)
-                
                 }
             }
         }
